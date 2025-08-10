@@ -1,4 +1,4 @@
-🚀 Bdfdsfdsfackend-Template-Generator
+🚀 Backend-Template-Generator
 A simple CLI tool to quickly generate a production-ready backend boilerplate with a well-structured folder setup, essential configuration files, and built-in support for MongoDB, file uploads (Multer + Cloudinary), and other backend essentials — so you can focus on core functionalities instead of repetitive setup.
 
 ✨ Features
